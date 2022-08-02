@@ -9,3 +9,5 @@ Team manager - Manage the kanban board, manage the git workflow, manage the tick
 SME
 Front end React SME - the team goes to for React questions
 Back end Express/MongoDB SME - the team goes to for Express/MongoDB questions
+
+Kanban board - is just a place to org your tickets, who is working on what, and what stage
